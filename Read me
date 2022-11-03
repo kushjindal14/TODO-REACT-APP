@@ -1,0 +1,8 @@
+Install node.js in your system from browser.
+Open a folder in command prompt where you want your app should be.
+Type in the command npx create-react-app todo
+Type another command cd todo
+then type npm start, your react app should be starting in one of your default browser
+goto vs code and open the folder of your react app
+In that go to src folder and open App.js file
+Clear all and paste the App.js file code from this repository into your file.
